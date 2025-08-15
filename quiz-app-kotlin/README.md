@@ -21,18 +21,6 @@ An Android app built with **Kotlin** that quizzes users on the flags of differen
 
 ---
 
-## 📸 Screenshots
-*(Replace with actual screenshots)*  
-![Screenshot 1](/screenshots/screenshot-1.png)  
-![Screenshot 2](/screenshots/screenshot-2.png)  
-
----
-
-## 🎥 Demo Video
-[![Watch Demo](/screenshots/screenshot.png)](https://youtu.be/YOUR_VIDEO_LINK)
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -43,3 +31,4 @@ An Android app built with **Kotlin** that quizzes users on the flags of differen
 ```bash
 git clone https://github.com/Urvi-07/Quiz-App-using-Kotlin.git
 cd Quiz-App-using-Kotlin
+
